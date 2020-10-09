@@ -1,8 +1,8 @@
-<a href="https://correy.webs.com/">个人主页</A><br><br>
+<a href="https://correy.webs.com/">个人主页</A><br>
 
-<a href="https://optmismgarden.blogspot.com/">个人感悟</A><br><br>
+<a href="https://optmismgarden.blogspot.com/">个人感悟</A><br>
 
-<a href="https://leguanyuan.blogspot.com/">技术心得</A><br><br>
+<a href="https://leguanyuan.blogspot.com/">技术心得</A><br>
 
 <!--
 **kouzhudong/kouzhudong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
