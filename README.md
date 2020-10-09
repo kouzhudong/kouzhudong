@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<br>
-
 <a href="https://correy.webs.com/">个人主页</A><br><br>
 
 <a href="https://optmismgarden.blogspot.com/">个人感悟</A><br><br>
