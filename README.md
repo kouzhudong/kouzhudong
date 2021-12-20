@@ -1,6 +1,6 @@
 <a href="https://correy.webs.com/">个人主页（需翻墙）</A><br><br>
 <a href="https://leguanyuan.blogspot.com/">技术心得（需翻墙）</A><br><br>
-<a href="https://gitlab.com/kouzhudong">GitLab（需翻墙）</A><br><br>
+<a href="https://gitlab.com/kouzhudong">GitLab（需翻墙）</A><br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouzhudong&layout=compact" />
 
