@@ -6,6 +6,7 @@
 visitors:<img src="https://profile-counter.glitch.me/kouzhudong/count.svg"/>
 -->
 
+<!--
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kouzhudong.visitor-badge)
 -->
 
