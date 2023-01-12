@@ -6,10 +6,13 @@
 visitors:<img src="https://profile-counter.glitch.me/kouzhudong/count.svg"/>
 -->
 
-<!--
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kouzhudong.visitor-badge)
 -->
 
+<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouzhudong&layout=compact" />
+-->
 
+<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kouzhudong&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+-->
