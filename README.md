@@ -1,5 +1,18 @@
-<a href="https://correy.webs.com/">个人主页（需翻墙）</A><br><br>
-<a href="https://leguanyuan.blogspot.com/">技术心得（需翻墙）</A><br><br>
+about me <br>
+
+社会介绍：  <br>
+自我称谓：虚混真人（取之圣经的第一话，但活的更像个道人）。  <br>
+宗教信仰：有神论（具体神的模样不清楚）。  <br>
+政治面貌：无党派（虽是平民一个，但不愿称群众）。  <br>
+
+计算机介绍：  <br>
+编程语言：c(vc, gcc), rust, lua.  <br>
+调试工具：windbg, gdb, ida.  <br>
+操作系统：Windows, linux.  <br>
+
+相关连接：  <br>
+<a href="https://correy.webs.com/">个人主页（需翻墙）</A><br>
+<a href="https://leguanyuan.blogspot.com/">技术心得（需翻墙）</A><br>
 <a href="https://gitlab.com/kouzhudong">GitLab（需翻墙）</A><br>
 
 <!--
