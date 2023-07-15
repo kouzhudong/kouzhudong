@@ -5,12 +5,15 @@ about me <br>
 宗教信仰：有神论（相信神的存在，具体神的模样不清楚）。  <br>
 政治面貌：无党派（虽是平民一个，但不愿称群众）。  <br>
 生辰八字：辛酉 辛卯 己亥 丁卯（刚出太阳）。  <br>
-饮食习惯：不测底的素食主义者。  <br>
+饮食习惯：不测底的素食主义者（可以三个月不吃肉，半年不吃肉，但不能一年不吃肉；杀生虽残忍，但禁止是错误的；偏伊斯兰饮食）。  <br>
+喜爱书籍：《道德经》，《易经》，《黄帝内经》，《圣经》。  <br>
 
 计算机介绍：  <br>
 编程语言：c(vc, gcc), rust, lua.  <br>
-调试工具：windbg, gdb, ida.  <br>
-操作系统：Windows, linux.  <br>
+调试工具：windbg, gdb, adb, ida.  <br>
+操作系统：Windows, Linux, Android.  <br>
+推崇个人：Richard Stallman(自由的精神),John von Neumann(严谨的理论),Linus Benedict Torvalds(扎实的技术).  <br>
+推崇公司：Netscape(孕育了js,tls,rust),Google LLC(做事有底线),Apple Inc(引领消费者).  <br>
 
 相关连接：  <br>
 <a href="https://correy.webs.com/">个人主页（需翻墙）</A><br>
