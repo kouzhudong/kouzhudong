@@ -15,11 +15,6 @@ about me <br>
 推崇个人：Richard Stallman(自由的精神)，John von Neumann(严谨的理论)，Linus Benedict Torvalds(扎实的技术).  <br>
 推崇公司：Netscape(孕育了js,tls,rust)，Google LLC(做事有底线)，Apple Inc(引领消费者).  <br>
 
-相关连接：  <br>
-<a href="https://correy.webs.com/">个人主页（需翻墙）</A><br>
-<a href="https://leguanyuan.blogspot.com/">技术心得（需翻墙）</A><br>
-<a href="https://gitlab.com/kouzhudong">GitLab（需翻墙）</A><br>
-
 <!--
 visitors:<img src="https://profile-counter.glitch.me/kouzhudong/count.svg"/>
 -->
