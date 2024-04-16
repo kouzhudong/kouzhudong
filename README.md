@@ -16,13 +16,8 @@ about me <br>
 个人代表：Richard Stallman(自由的精神)，John von Neumann(严谨的理论)，Linus Benedict Torvalds(扎实的技术).  <br>
 公司代表：Netscape(孕育了js,tls,rust)，Google LLC(做事有底线)，Apple Inc(引领消费者).  <br>
 
-
 <!--
 visitors:<img src="https://profile-counter.glitch.me/kouzhudong/count.svg"/>
--->
-
-<!--
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kouzhudong.visitor-badge)
 -->
 
 <!--
