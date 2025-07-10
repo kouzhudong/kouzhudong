@@ -22,10 +22,6 @@ Send me a private message (unsigned):<a href="https://github.com/kouzhudong/kouz
 -->
 
 <!--
-visitors:<img src="https://profile-counter.glitch.me/kouzhudong/count.svg"/>
--->
-
-<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouzhudong&layout=compact" />
 -->
 
