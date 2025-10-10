@@ -13,8 +13,11 @@ about me <br>
 编程语言：c(vc, gcc), rust, lua.  <br>
 调试工具：windbg, gdb, adb, ida.  <br> <!--lldb-->
 操作系统：Windows, Linux, Android.  <br>
+
+<!--
 个人代表：Richard Stallman(自由的精神)，John von Neumann(严谨的理论)，Linus Benedict Torvalds(扎实的技术).  <br>
 公司代表：Netscape(孕育了js,tls,rust)，Google LLC(做事有底线)，Apple Inc(引领消费者).  <br>
+-->
 
 Contact me using gpg(name:correy):<a href="https://github.com/kouzhudong/kouzhudong/blob/main/gpg.asc">here</a><br>
 <!--
