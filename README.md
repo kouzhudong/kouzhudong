@@ -23,11 +23,3 @@ Contact me using gpg(name:correy):<a href="https://github.com/kouzhudong/kouzhud
 <!--
 Send me a private message (unsigned):<a href="https://github.com/kouzhudong/kouzhudong/blob/main/correy.pem">here</a><br>
 -->
-
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouzhudong&layout=compact" />
--->
-
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kouzhudong&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
--->
