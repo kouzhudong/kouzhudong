@@ -15,6 +15,7 @@ about me <br>
 操作系统：Windows, Linux, Android.  <br>
 
 <!--
+AI：&emsp;&emsp;&emsp;claude, chatgpt.  <br>
 个人代表：Richard Stallman(自由的精神)，John von Neumann(严谨的理论)，Linus Benedict Torvalds(扎实的技术).  <br>
 公司代表：Netscape(孕育了js,tls,rust)，Google LLC(做事有底线)，Apple Inc(引领消费者).  <br>
 -->
